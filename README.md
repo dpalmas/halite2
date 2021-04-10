@@ -1,3 +1,3 @@
 # Robocode
 
-Repositório para trabalho de Team Robocode da disciplina de Fundamentos de Sistemas Inteligentes.
+Repositório para trabalho de multi-agente da disciplina de Fundamentos de Sistemas Inteligentes.
