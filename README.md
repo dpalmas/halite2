@@ -16,6 +16,8 @@
   </a>
 </p>
 
+![](/images/DJP_Bot.gif)
+
 ## :pencil: Parte 1 – implemente um agente Halite (peso 4)
 
 :heavy_check_mark: Use a versão 2 do Halite;<br>
@@ -29,8 +31,8 @@
 :heavy_check_mark: Na versão padrão, será salvo um replay na pasta replay;<br>
 :heavy_check_mark: Você pode ver seu agente segurando e arrastando o replay para o site: https://2017.halite.io/play-programming-challenge;<br>
 :heavy_check_mark: Veja run-game.bat ou run-game.py para informações adicionais sobre o comando;<br>
-:heavy_check_mark: Informações da API e das regras do jogo podem ser encontradas aqui:
-https://2017.halite.io/learn-programming-challenge/
+:heavy_check_mark: Informações da API e das regras do jogo podem ser encontradas aqui:<br>
+https://2017.halite.io/learn-programming-challenge/<br>
 https://2017.halite.io/learn-programming-challenge/basic-game-rules/units;<br>
 :heavy_check_mark: Veja a documentação completa para descobrir comandos úteis como
 get_surrounding_cardinals();<br>
@@ -44,7 +46,7 @@ mybot.py) e internamente, o comando game.read(“foo”) deve ser usado;<br>
 
 :heavy_check_mark: Seu relatório deve conter no mínimo 800 palavras (use recurso contar Palavras do Word ou
 similar);<br>
-:heavy_check_mark: Não há modelo de relatório, você pode definir o modelo que desejar.1.2 Tabelas, códigos, pseudo-códigos, listagens, capa, contrapa, etc não contam como palavras;<br>
+:heavy_check_mark: Não há modelo de relatório, você pode definir o modelo que desejar. Tabelas, códigos, pseudo-códigos, listagens, capa, contrapa, etc não contam como palavras;<br>
 :heavy_check_mark: Resultados dos testes explicados na forma de texto também não contam como palavras;<br>
 :heavy_check_mark: Dê uma visão geral sobre a competição Halite;<br>
 :heavy_check_mark: Descreva a estratégia de que seu agente utiliza para coletar Halite.<br>
@@ -98,5 +100,5 @@ caracteriza plágio, consulte o professor.
 ## :pencil: Avaliação
 
 1. Código não compilável **anulará o trabalho**;<br>
-2. Detecção de plágio, mesmo que em pequenas porções de texto ou código **anularão o trabalho**.
+2. Detecção de plágio, mesmo que em pequenas porções de texto ou código **anularão o trabalho**.<br>
 Se estiver em dúvida sobre o que caracteriza plágio, consulte o professor.
