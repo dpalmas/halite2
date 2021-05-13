@@ -16,7 +16,7 @@
   </a>
 </p>
 
-![](/images/DJP_Bot.gif)
+<div style="text-align:center"><img src="images/DJP_Bot.gif"/></div>
 
 ## :pencil: Parte 1 – implemente um agente Halite (peso 4)
 
