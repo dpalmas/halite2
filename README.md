@@ -97,6 +97,6 @@ caracteriza plágio, consulte o professor.
 
 ## :pencil: Avaliação
 
-1. Código não compilável <strong>anulará o trabalho</strong>;<br>
-2. Detecção de plágio, mesmo que em pequenas porções de texto ou código <strong>anularão o trabalho</strong>.
+1. Código não compilável **anulará o trabalho**;<br>
+2. Detecção de plágio, mesmo que em pequenas porções de texto ou código **anularão o trabalho**.
 Se estiver em dúvida sobre o que caracteriza plágio, consulte o professor.
