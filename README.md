@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   Halite 2 :rocket: :space_invader: :rocket:
-</h3>
+</h1>
 
 <p align="center">Trabalho de Multi Agentes da disciplina de Fundamentos de Sistemas Inteligentes</a>
 </p>
@@ -54,4 +54,27 @@ mybot.py) e internamente, o comando game.read(“foo”) deve ser usado;
 
 :heavy_check_mark: Envie o código fonte do seu agente junto com o relatório;
 
-:heavy_check_mark: Código não compilável/executável anulará o trabalho;
+:heavy_check_mark: Código não compilável/executável anulará o trabalho.
+
+## :pencil: Parte 2 – elabore o relatório (peso 6)
+
+:heavy_check_mark: Seu relatório deve conter no mínimo 800 palavras (use recurso contar Palavras do Word ou
+similar);
+
+:heavy_check_mark: Não há modelo de relatório, você pode definir o modelo que desejar.1.2 Tabelas, códigos, pseudo-códigos, listagens, capa, contrapa, etc não contam como palavras;
+
+:heavy_check_mark: Resultados dos testes explicados na forma de texto também não contam como palavras;
+
+:heavy_check_mark: Dê uma visão geral sobre a competição Halite;
+
+:heavy_check_mark: Descreva a estratégia de que seu agente utiliza para coletar Halite.
+
+:heavy_check_mark: Mostre o resultado de três partidas do seu agente contra ele mesmo e indique a pontuação
+atingida;
+
+:heavy_check_mark: Em relação aos agentes estudados;
+:heavy_check_mark: Indique a arquitetura do seu agente (mais de uma se for o caso) e justifique a resposta;
+:heavy_check_mark: Indique o PEAS do agente;
+:heavy_check_mark: Caracterize o tipo de ambiente no qual ele está inserido;
+:heavy_check_mark: Ao invés do PDF do seu relatório envie o arquivo original (doc, docx, odt, tex, etc) para
+contagem de palavras.
