@@ -29,7 +29,8 @@
 :heavy_check_mark: Baixe o Halite: https://2017.halite.io/learn-programming-challenge/downloads-and-starter-kits/;<br>
 :heavy_check_mark: Você inicia uma partida com o comando Halite;<br>
 :heavy_check_mark: Na versão padrão, será salvo um replay na pasta replay;<br>
-:heavy_check_mark: Você pode ver seu agente segurando e arrastando o replay para o site: https://2017.halite.io/play-programming-challenge;<br>
+:heavy_check_mark: Você pode ver seu agente segurando e arrastando o replay para o site:<br>
+https://2017.halite.io/play-programming-challenge;<br>
 :heavy_check_mark: Veja run-game.bat ou run-game.py para informações adicionais sobre o comando;<br>
 :heavy_check_mark: Informações da API e das regras do jogo podem ser encontradas aqui:<br>
 https://2017.halite.io/learn-programming-challenge/<br>
