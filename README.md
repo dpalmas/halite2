@@ -123,6 +123,7 @@ Se estiver em dúvida sobre o que caracteriza plágio, consulte o professor.
   $ cd halite2
   # Execute o jogo
   $ run_game.sh # ou run_game.bash para Windows
+```
 
 ## :memo: Licença
 [MIT](./LICENSE)
