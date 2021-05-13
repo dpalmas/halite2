@@ -103,3 +103,26 @@ caracteriza plágio, consulte o professor.
 1. Código não compilável **anulará o trabalho**;<br>
 2. Detecção de plágio, mesmo que em pequenas porções de texto ou código **anularão o trabalho**.<br>
 Se estiver em dúvida sobre o que caracteriza plágio, consulte o professor.
+
+## :computer: Instalação
+
+- ### **Pré-requisitos**
+
+  - É **necessário** possuir o **[Python](https://www.python.org/)** instalado no computador.
+
+1. Faça um clone do repositório:
+
+```sh
+  $ git clone https://github.com/dpalmas/halite2.git
+```
+
+2. Executando a Aplicação:
+
+```sh
+  # Acesse a pasta
+  $ cd halite2
+  # Execute o jogo
+  $ run_game.sh # ou run_game.bash para Windows
+
+## :memo: Licença
+[MIT](./LICENSE)
